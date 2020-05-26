@@ -1,0 +1,17 @@
+
+.post{
+    display: flex;
+    align-items:center;
+    justify-content: space-around
+
+}
+
+.edit{
+    cursor: pointer;
+    color: green;
+}
+
+.delete{
+    cursor: pointer;
+    color: red;
+}
